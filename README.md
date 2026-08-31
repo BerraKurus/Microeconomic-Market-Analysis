@@ -25,9 +25,9 @@ An end-to-end empirical data analysis project investigating microeconomic market
 
 --
 
-Due to GitHub repository file size limitations, the full cleaned dataset is hosted externally on Google Drive:
+* **Dataset:** Due to GitHub repository file size limitations, the full cleaned dataset is hosted externally on Google Drive:
 
-* **Dataset:** [Processed Airbnb Dataset (CSV)](https://drive.google.com/file/d/1xwBVhIU6OFKY_Cv9ePDZQ42gRMZTo5QX/view?usp=sharing)
+[Processed Airbnb Dataset (CSV)](https://drive.google.com/file/d/1xwBVhIU6OFKY_Cv9ePDZQ42gRMZTo5QX/view?usp=sharing)
 
 *The detailed analysis report is currently being constructed.*
 
@@ -36,6 +36,24 @@ Due to GitHub repository file size limitations, the full cleaned dataset is host
 <details>
 <summary><b>🇫🇷 Rapport Français (Cliquez pour lire le rapport en entier)</b></summary>
 <br>
+
+**Analyse microéconomique du marché Airbnb**
+
+Un projet d’analyse empirique de bout en bout des données explorant les dynamiques microéconomiques du marché Airbnb dans 4 métropoles : New York, Londres, Paris et Tokyo.
+
+**Cadre du Projet** 
+
+**Accès aux données & Architecture**
+
+* **Source des Données:** [Inside Airbnb](https://insideairbnb.com) (Archive Publique de Données)
+
+**1) R**
+
+--
+
+* **Ensemble de Données:** En raison des limitations de Github concernant la grandeur des documents, l’ensemble complet et nettoyé de données est hébergé sur Google Drive.
+
+[Document de CSV](https://drive.google.com/file/d/1xwBVhIU6OFKY_Cv9ePDZQ42gRMZTo5QX/view?usp=sharing)
 
 *Le rapport d'analyse détaillée est en train de se produire.*
 
