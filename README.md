@@ -1,14 +1,35 @@
 # Microeconomic-Market-Analysis
 End-to-end microeconomic analysis of Inside Airbnb data using R, SQL, and Tableau.
 
+Analyse microéconomique de bout en bout des données Inside Airbnb à l'aide de R, SQL et Tableau.
+
 ### Choose the Report's Language / Choisissez la Langue du Rapport :
 
 <details>
 <summary><b>🇬🇧 English Report (Click to read the whole report)</b></summary>
 <br>
 
-*The detailed analysis report is currently being constructed.*
+# Airbnb Microeconomic Market Analysis
 
+An end-to-end empirical data analysis project investigating microeconomic market dynamics using Airbnb data of 4 metropoles: New York, London, Paris, and Tokyo. 
+
+# Scope of the Project
+
+#
+
+## Data Access & Architecture
+
+* **Data Source:** [Inside Airbnb](https://insideairbnb.com) (Public Data Archive)
+
+**1) R**
+
+--
+
+Due to GitHub repository file size limitations, the full cleaned dataset is hosted externally on Google Drive:
+
+* **Dataset:** [Processed Airbnb Dataset (CSV)](https://drive.google.com/file/d/1xwBVhIU6OFKY_Cv9ePDZQ42gRMZTo5QX/view?usp=sharing)
+
+*The detailed analysis report is currently being constructed.*
 
 </details>
 
