@@ -9,15 +9,15 @@ Analyse microéconomique de bout en bout des données Inside Airbnb à l'aide de
 <summary><b>🇬🇧 English Report (Click to read the whole report)</b></summary>
 <br>
 
-# Airbnb Microeconomic Market Analysis
+**Airbnb Microeconomic Market Analysis**
 
 An end-to-end empirical data analysis project investigating microeconomic market dynamics using Airbnb data of 4 metropoles: New York, London, Paris, and Tokyo. 
 
-# Scope of the Project
+**Scope of the Project**
 
-#
 
-## Data Access & Architecture
+
+**Data Access & Architecture**
 
 * **Data Source:** [Inside Airbnb](https://insideairbnb.com) (Public Data Archive)
 
