@@ -41,7 +41,7 @@ Tableau: Data Visualization
 
 **SQL**
 
-**a) Superhost Profiles EDA**
+**a) Superhost Profiles & Exploratory Data Analysis**
 
 [Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Baseline%20EDA%26Overview.sql)
 
@@ -55,7 +55,7 @@ This SQL query was designed for exploratory data analysis. It examines the empir
 
 **Reputation Premium:** Superhosts command higher average nightly rates (avg_price), indicating that consumers are willing to pay a premium to reduce quality uncertainty.
 
-Engagement & Feedback: Superhosts register higher review volumes and rating scores, reinforcing platform trust.
+**Engagement & Feedback:** Superhosts register higher review volumes and rating scores, reinforcing platform trust.
 
 **TABLEAU**
 
@@ -77,9 +77,9 @@ Un projet d’analyse empirique de bout en bout des données explorant les dynam
 
 **2) Accès aux données & Architecture**
 
-* **Source des Données:** [Inside Airbnb](https://insideairbnb.com) (Archive Publique de Données)
+* **Source des Données :** [Inside Airbnb](https://insideairbnb.com) (Archive Publique de Données)
 
-* **Technologies & Infrastructure:**
+* **Technologies & Infrastructure :**
 
 R & RStudio: Extraction / Nettoyage de données
 
@@ -93,17 +93,27 @@ Tableau: Visualisation de données
 
 --
 
-* **Ensemble de Données:** En raison des limitations de Github concernant la grandeur des documents, l’ensemble complet et nettoyé de données est hébergé sur Google Drive.
+* **Ensemble de Données :** En raison des limitations de Github concernant la grandeur des documents, l’ensemble complet et nettoyé de données est hébergé sur Google Drive.
 
 [Document de CSV](https://drive.google.com/file/d/1xwBVhIU6OFKY_Cv9ePDZQ42gRMZTo5QX/view?usp=sharing)
 
 **SQL**
 
-**a)**
+**a)Profiles de Superhôte & Analyse Exploratoire de Données**
 
 [Cliquez pour observer l'interrogation de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Baseline%20EDA%26Overview.sql)
 
 [Cliquez pour observer la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/eda_table.csv)
+
+Cette interrogation a été désignée pour l’analyse exploratoire de données. Elle examine la relation empirique entre la réputation d’hôte (host_is_superhost) et les indicateurs clés de performance du marché comme la prix, le taux d’occupation et l’engagement du client qui inclut l’évaluation moyenne et les critiques.
+
+**Perspectives Clés :**
+
+**Occupation & Demande :** Les inscriptions de superhôte montrent un taux plus bas de disponibilite à court terme (avg_availability_30), indiquant le taux plus haut d’occupation & l’intensité de demande.
+
+**Plus-value de Réputation :** Les superhôtes commandent les prix plus hauts (avg_price), indiquant le fait que les clients sont prêts à payer un supplément afin de réduire l’incertitude de qualité.
+
+**Engagement & Feed-back :** Les superhôtes enregistrent des volumes plus grands de critiques et de meilleurs scores d’évaluation, ceux qui renforcent la confiance envers la plateforme.
 
 **TABLEAU**
 
