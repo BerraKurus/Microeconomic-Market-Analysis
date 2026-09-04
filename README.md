@@ -43,6 +43,10 @@ Tableau: Data Visualization
 
 **a) Superhost Profiles EDA**
 
+[Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Baseline%20EDA%26Overview.sql)
+
+[Click here to view the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/eda_table.csv)
+
 This SQL query was designed for exploratory data analysis. It examines the empirical relationship between host reputation (host_is_superhost) and key market performance indicators such as price, occupancy, and consumer engagement including average rating and reviews.
 
 **Key Insights:**
@@ -53,7 +57,7 @@ This SQL query was designed for exploratory data analysis. It examines the empir
 
 Engagement & Feedback: Superhosts register higher review volumes and rating scores, reinforcing platform trust.
 
-**Tableau**
+**TABLEAU**
 
 --
 
@@ -95,9 +99,13 @@ Tableau: Visualisation de données
 
 **SQL**
 
---
+**a)**
 
-**Tableau**
+[Cliquez pour observer l'interrogation de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Baseline%20EDA%26Overview.sql)
+
+[Cliquez pour observer la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/eda_table.csv)
+
+**TABLEAU**
 
 --
 
