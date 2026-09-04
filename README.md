@@ -41,6 +41,10 @@ Tableau: Data Visualization
 
 **SQL**
 
+**Data Importing**
+
+[Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Create%20Table%26Data%20Importing.sql)
+
 **a) Superhost Profiles & Exploratory Data Analysis**
 
 [Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Baseline%20EDA%26Overview.sql)
@@ -98,6 +102,10 @@ Tableau: Visualisation de données
 [Document de CSV](https://drive.google.com/file/d/1xwBVhIU6OFKY_Cv9ePDZQ42gRMZTo5QX/view?usp=sharing)
 
 **SQL**
+
+**Importation de Données**
+
+[Cliquez pour observer les codes de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Create%20Table%26Data%20Importing.sql)
 
 **a)Profiles de Superhôte & Analyse Exploratoire de Données**
 
