@@ -41,7 +41,17 @@ Tableau: Data Visualization
 
 **SQL**
 
---
+**a) Superhost Profiles EDA**
+
+This SQL query was designed for exploratory data analysis. It examines the empirical relationship between host reputation (host_is_superhost) and key market performance indicators such as price, occupancy, and consumer engagement including average rating and reviews.
+
+**Key Insights:**
+
+**Occupancy & Demand:** Superhost listings display lower short-term availability (avg_availability_30), pointing to higher occupancy rate & demand intensity.
+
+**Reputation Premium:** Superhosts command higher average nightly rates (avg_price), indicating that consumers are willing to pay a premium to reduce quality uncertainty.
+
+Engagement & Feedback: Superhosts register higher review volumes and rating scores, reinforcing platform trust.
 
 **Tableau**
 
