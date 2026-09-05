@@ -69,6 +69,12 @@ This SQL query was designed for exploratory data analysis. It examines the empir
 
 [Click here to observe the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/price_superhost_table.csv)
 
+**c) Average Price per Guest**
+
+[Click here to observe the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_price_per_accomodate.sql)
+
+[Click here to view the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_price_per_guest_table.csv)
+
 **TABLEAU**
 
 --
@@ -138,6 +144,12 @@ Cette interrogation a été désignée pour l’analyse exploratoire de données
 [Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Price-Superhost-Relationship.sql)
 
 [Cliquez pour observer la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/price_superhost_table.csv)
+
+**c) Prix Moyenne par Client**
+
+[Cliquez afin d'observer l'interrogation de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_price_per_accomodate.sql)
+
+[Cliquez pour voir la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_price_per_guest_table.csv)
 
 **TABLEAU**
 
