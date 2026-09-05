@@ -33,7 +33,31 @@ Tableau: Data Visualization
 
 **R**
 
---
+The raw ingestion and transformation pipeline was engineered in R.
+
+* **Packages:**
+
+tidyverse
+
+lubridate
+
+data.table
+
+arrow
+
+R.utils
+
+* **Indispensable Functions:**
+
+**tribble() :** Created a metadata table containing city names, currencies, exchange rates, and URL’s.
+
+**fread() :** Leveraged a C-backed stream reading to ingest massive listings directly from remote URLs, minimizing memory overhead prior to cleaning.
+
+**select() & mutate() & case_when() & replace_na() & filter() :** Data cleaning / Harmonization
+
+**str_detect() :** Parsed the raw 'amenities' string column using vectorized regular expressions ('regex') to extract structural indicators (WiFi, self check-in, dedicated workspace etc.) as boolean indicators. 
+
+**write_csv :** Exported the dataset for SQL querying.
 
 * **Dataset:** Due to GitHub repository file size limitations, the full cleaned dataset is hosted externally on Google Drive:
 
