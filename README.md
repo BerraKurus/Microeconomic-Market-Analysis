@@ -63,6 +63,12 @@ This SQL query was designed for exploratory data analysis. It examines the empir
 
 **Engagement & Feedback:** Superhosts register higher review volumes and rating scores, reinforcing platform trust.
 
+**b) Markup Point on Average Price Increase when Host is Superhost**
+
+[Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Price-Superhost-Relationship.sql)
+
+[Click here to observe the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/price_superhost_table.csv)
+
 **TABLEAU**
 
 --
@@ -126,6 +132,12 @@ Cette interrogation a été désignée pour l’analyse exploratoire de données
 **Plus-value de Réputation :** Les superhôtes commandent les prix plus hauts (avg_price), indiquant le fait que les clients sont prêts à payer un supplément afin de réduire l’incertitude de qualité.
 
 **Engagement & Feed-back :** Les superhôtes enregistrent des volumes plus grands de critiques et de meilleurs scores d’évaluation, ceux qui renforcent la confiance envers la plateforme.
+
+**b) Hausse Moyenne des Prix Induite par le Statut de Superhôte**
+
+[Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Price-Superhost-Relationship.sql)
+
+[Cliquez pour observer la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/price_superhost_table.csv)
 
 **TABLEAU**
 
