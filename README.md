@@ -57,7 +57,7 @@ R.utils
 
 **str_detect() :** Parsed the raw 'amenities' string column using vectorized regular expressions ('regex') to extract structural indicators (WiFi, self check-in, dedicated workspace etc.) as boolean indicators. 
 
-**write_csv :** Exported the dataset for SQL querying.
+**write_csv() :** Exported the dataset for SQL querying.
 
 * **Dataset:** Due to GitHub repository file size limitations, the full cleaned dataset is hosted externally on Google Drive:
 
@@ -139,7 +139,31 @@ Tableau: Visualisation de données
 
 **R**
 
---
+La conduite de l’ingestion et de la transformation brutes a été construite en R.
+
+* **Paquets:**
+
+tidyverse
+
+lubridate
+
+data.table
+
+arrow
+
+R.utils
+
+* **Fonctions Indispensables:**
+
+**tribble() :** Une table de métadonnée contenant les noms de villes, unités monétaires, taux d’échange et les URL’S a été créée.
+
+**fread() :** Une lecture en flux optimisée en C a été exploitée pour ingérer des volumes massifs des URL distantes, réduisant aussi la surcharge mémoire avant la phase de nettoyage.
+
+**select() & mutate() & case_when() & replace_na() & filter() :** Nettoyage de Données / Harmonisation
+
+**str_detect() :** La colonne de “amenities” a été analysée à l'aide d'expressions régulières vectorisées (“regex”) afin d'extraire des indicateurs structurels (Wi-Fi, check-in autonome, espace dédié au travail, etc.) sous forme d'indicateurs booléens.
+
+**write_csv() :** L’ensemble de données a été exporté pour l’analyse de SQL.
 
 * **Ensemble de Données :** En raison des limitations de Github concernant la grandeur des documents, l’ensemble complet et nettoyé de données est hébergé sur Google Drive.
 
