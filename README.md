@@ -15,7 +15,9 @@ An end-to-end empirical data analysis project investigating microeconomic market
 
 **1) Scope of the Project**
 
+Microeconomic data from Inside Airbnb was analyzed in terms of market dynamics and its dependencies on key microeconomic indicators.
 
+The dataset includes 4 metropolitan markets (New York, London, Paris, and Tokyo) in order for market dynamics of different continents (North America, Europe, and Asia) to be properly reflected.
 
 **2) Data Access & Architecture**
 
