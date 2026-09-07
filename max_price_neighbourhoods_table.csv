@@ -1,0 +1,13 @@
+"city","avg_price_per_neighbourhood","neighbourhood_cleansed","max_price_3_neighbourhoods"
+London,435.246926,City of London,1
+London,435.098969,Westminster,2
+London,427.442746,Kensington and Chelsea,3
+New York,868.880000,Fort Wadsworth,1
+New York,552.000000,Battery Park City,2
+New York,419.335000,Civic Center,3
+Paris,432.550384,Élysée,1
+Paris,398.747820,Louvre,2
+Paris,367.302751,Palais-Bourbon,3
+Tokyo,230.394000,Hinohara Mura,1
+Tokyo,196.483250,Minato Ku,2
+Tokyo,182.919450,Shibuya Ku,3
