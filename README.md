@@ -73,7 +73,7 @@ R.utils
 
 This query includes CREATE TABLE statement for data importing process.
 
-**a) Superhost Profiles & Exploratory Data Analysis**
+**1) Superhost Profiles & Exploratory Data Analysis**
 
 [Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Baseline%20EDA%26Overview.sql)
 
@@ -89,23 +89,29 @@ This SQL query was designed for exploratory data analysis. It examines the empir
 
 **Engagement & Feedback:** Superhosts register higher review volumes and rating scores, reinforcing platform trust.
 
-**b) Markup Point on Average Price Increase when Host is Superhost**
+**2) Markup Point on Average Price Increase when Host is Superhost**
 
 [Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Price-Superhost-Relationship.sql)
 
 [Click here to observe the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/price_superhost_table.csv)
 
-**c) Average Price per Guest**
+**3) Average Price per Guest**
 
 [Click here to observe the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_price_per_accomodate.sql)
 
 [Click here to view the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_price_per_guest_table.csv)
 
-**d) Average Occupancy Rate based on Host Profiles**
+**4) Average Occupancy Rate based on Host Profiles**
 
 [Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_occupancy.sql)
 
 [Clickk here to observe the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_occupancy_table.csv)
+
+**5) Neighbourhoods with Maximum Average Price**
+
+[Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/max_price_neighbourhoods.sql)
+
+[Click here to view the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/max_price_neighbourhoods_table.csv)
 
 **TABLEAU**
 
@@ -183,7 +189,7 @@ R.utils
 
 Cette interrogation inclut l'instruction CREATE TABLE pour le processus de l'importation de données.
 
-**a)Profiles de Superhôte & Analyse Exploratoire de Données**
+**1)Profiles de Superhôte & Analyse Exploratoire de Données**
 
 [Cliquez pour observer l'interrogation de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Baseline%20EDA%26Overview.sql)
 
@@ -199,23 +205,29 @@ Cette interrogation a été désignée pour l’analyse exploratoire de données
 
 **Engagement & Feed-back :** Les superhôtes enregistrent des volumes plus grands de critiques et de meilleurs scores d’évaluation, ceux qui renforcent la confiance envers la plateforme.
 
-**b) Hausse Moyenne des Prix Induite par le Statut de Superhôte**
+**2) Hausse Moyenne des Prix Induite par le Statut de Superhôte**
 
 [Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Price-Superhost-Relationship.sql)
 
 [Cliquez pour observer la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/price_superhost_table.csv)
 
-**c) Prix Moyenne par Client**
+**3) Prix Moyenne par Client**
 
 [Cliquez afin d'observer l'interrogation de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_price_per_accomodate.sql)
 
 [Cliquez pour voir la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_price_per_guest_table.csv)
 
-**d) Taux d'Occupation Moyenne selon la Profile d'Hôte**
+**4) Taux d'Occupation Moyenne selon la Profile d'Hôte**
 
 [Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_occupancy.sql)
 
 [Cliquez afin d'observer la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_occupancy_table.csv)
+
+**5) Quartiers avec la Prix Moyenne Maximale**
+
+[Cliquez afin de voir les codes de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/max_price_neighbourhoods.sql)
+
+[Cliquez pour observer la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/max_price_neighbourhoods_table.csv)
 
 **TABLEAU**
 
