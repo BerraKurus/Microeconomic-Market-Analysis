@@ -113,6 +113,12 @@ As a result of the unfiltered version of the SQL query, a big table containing t
 
 [Click here to view the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_price_per_guest_table.csv)
 
+This query calculates the average price per guest in each neighbourhood in each metropolitan market. New York’s Greenwich Village has the highest average price per guest, driven by Greenwich Village’s exceptionally high touristic willingness to pay due to Manhattan’s historical background, inelastic land supply, and central location. Also, as a result of the overall analysis, New York has higher prices per guest whereas Tokyo is the most affordable city in terms of average unit prices. Tokyo’s situation can be explained by its high guest capacity, and the macroeconomic depreciation of the JPY relative to the USD and EUR.
+
+At the end of the query, a filtering (HAVING COUNT(*) >= 15) was applied in order to prevent sample size bias. Consequently, statistically representative neighbourhoods were included in the list.
+
+Additionally, the ratio of average total price to average accommodates is not entirely equal to average price per guest in the table. This can be explained fundamentally by Jensen’s Inequality, highlighting the mathematical difference between the mean of ratios and the ratio of means.
+
 **5) Average Occupancy Rate based on Host Profiles**
 
 [Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_occupancy.sql)
