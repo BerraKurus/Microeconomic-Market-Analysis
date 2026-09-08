@@ -89,7 +89,7 @@ This SQL query was designed for exploratory data analysis. It examines the empir
 
 **Engagement & Feedback:** Superhosts register higher review volumes and rating scores, reinforcing platform trust.
 
-**2) Markup Point on Average Price Increase when Host is Superhost**
+**2) Price Premium on Average Price Increase when Host is Superhost**
 
 [Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Price-Superhost-Relationship.sql)
 
