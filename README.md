@@ -95,6 +95,8 @@ This SQL query was designed for exploratory data analysis. It examines the empir
 
 [Click here to observe the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/price_superhost_table.csv)
 
+In this CTE-based query, it was intended to calculate the average price increase as a price premium when the host is superhost. The results indicate that maximum superhost premium is observed in Tokyo which is followed by London, Paris, and New York in order.
+
 **3) Herfindahl-Hirschman Index & Concentration Ratio**
 
 [Click here to observe the unfiltered SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/hhi_index_conc_ratio.sql)
@@ -220,6 +222,8 @@ Cette interrogation a été désignée pour l’analyse exploratoire de données
 [Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Price-Superhost-Relationship.sql)
 
 [Cliquez pour observer la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/price_superhost_table.csv)
+
+Le but essentiel de cette interrogation qui aussi contient CTE est de calculer l’augmentation de prix moyenne comme une prime de prix quand l’hôte est un superhôte. Les résultats indiquent que la prime maximale de superhôte est observée à Tokyo qui est suivi par Londres, Paris et New York en ordre.
 
 **3) Indexe de Herfindahl-Hirschman & Ratio de Concentration**
 
