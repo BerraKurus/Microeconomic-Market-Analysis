@@ -95,19 +95,15 @@ This SQL query was designed for exploratory data analysis. It examines the empir
 
 [Click here to observe the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/price_superhost_table.csv)
 
-**3) Herfindahl-Hirschman Index & Concentration Ratio Analyses**
+**3) Herfindahl-Hirschman Index & Concentration Ratio**
 
 [Click here to observe the unfiltered SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/hhi_index_conc_ratio.sql)
 
-As a result of the unfiltered version of the SQL query, a big table containing thousands of rows was constructed. Therefore, this table is hosted on Google Drive as a CSV file.
+As a result of the unfiltered version of the SQL query, a big table containing thousands of rows was constructed. Therefore, this table is hosted on Google Drive as a CSV file : [Click here to observe the table on Google Drive](https://drive.google.com/file/d/16s3vlZLTW5Z7N59h4f3gAF78L2PJ-FbG/view?usp=sharing)
 
-[Click here to observe the table on Google Drive](https://drive.google.com/file/d/16s3vlZLTW5Z7N59h4f3gAF78L2PJ-FbG/view?usp=sharing)
+[Click here to view the filtered SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/top_50_hosts_hhi_conc_ratio.sql) : This filtered query contains top 50 hosts per city, making the analysis more straightforward.
 
-[Click here to view the filtered SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/top_50_hosts_hhi_conc_ratio.sql) :
-
-This filtered query contains top 50 hosts per city, making the analysis more straightforward.
-
-[Click here to view the filtered SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/top_50_hosts_hhi_conc_ratio_table.csv)
+[Click here to view the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/top_50_hosts_hhi_conc_ratio_table.csv)
 
 **4) Average Price per Guest**
 
@@ -225,7 +221,15 @@ Cette interrogation a été désignée pour l’analyse exploratoire de données
 
 [Cliquez pour observer la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/price_superhost_table.csv)
 
-**3)**
+**3) Indexe de Herfindahl-Hirschman & Ratio de Concentration**
+
+[Cliquez afin d'observer l'interrogation non-filtrée de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/hhi_index_conc_ratio.sql)
+
+En raison de la version non-filtrée de l’interrogation de SQL, une table contenant milles des rangs a été construite. D’ailleurs, cette table est hébergée sur Google Drive : [Cliquez pour observer la table sur Google Drive](https://drive.google.com/file/d/16s3vlZLTW5Z7N59h4f3gAF78L2PJ-FbG/view?usp=sharing)
+
+[Cliquez pour voir l'interrogation filtrée de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/top_50_hosts_hhi_conc_ratio.sql) : Cette interrogation filtrée contient les 50 premiers hôtes au zénith, rendant l’analyse plus directe et simple.
+
+[Cliquez afin de voir la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/top_50_hosts_hhi_conc_ratio_table.csv)
 
 **4) Prix Moyenne par Client**
 
