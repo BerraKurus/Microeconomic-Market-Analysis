@@ -125,6 +125,23 @@ Additionally, the ratio of average total price to average accommodates is not en
 
 [Clickk here to observe the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_occupancy_table.csv)
 
+It was intended to analyze average monthly / yearly occupancy rates and prices of different host profiles which were categorized based on the number of their listings. There exist 4 categories as single host, small multi-host, medium multi-host, and commercial host. It is normal to expect that commercial hosts’ rentings would have higher occupancy rates. However, it is worth indicating that in London, New York, and Paris; average yearly occupation rates reach the top at single host profiles. This situation can be explained by several facts:
+
+1-	Single hosts generally rent their own houses or empty rooms to make some money instead of keeping that place empty without earning. Therefore, they underprice their listings relative to commercial hosts who target higher profit margins. The law of demand indicates that quantity demanded increases when the price goes down.
+
+2-	Artificial Occupancy:
+Single hosts have tendency to keep the renting blocked when it’s under their own use. The algorithm counts blocked days as occupied days, leading to less availability as a result of the artificial occupancy.
+
+3-	Authentic and More Localized Guest Preference
+
+In terms of average prices per host profiles in each metropole, London and Paris have higher average prices. Also, it is crucial to highlight a counterintuitive fact: In Paris and Tokyo, average price per host profile does not reach its highest value at commercial host category. This incident has a few roots:
+
+1-	Legal Regulations & Space Optimization:
+In Paris and Tokyo, there are strict housing laws (Loi Élan in Paris & Minpaku Law in Tokyo), due to which, commercial hosts rent compact studios in order to be able to get legal permission. In this case, they naturally command lower absolute headline prices compared to the larger primary residences listed by non-commercial hosts.
+
+2-	Outliers:
+Non-commercial hosts sometimes list high-value, unique residences (e.g., luxury apartments with scenic views), which skews non-commercial averages upward. In contrast, commercial hosts keep the prices at a normal level to not take risks.
+
 **6) Neighbourhoods with Maximum Average Price**
 
 [Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/max_price_neighbourhoods.sql)
