@@ -241,11 +241,17 @@ En raison de la version non-filtrée de l’interrogation de SQL, une table cont
 
 [Cliquez afin de voir la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/top_50_hosts_hhi_conc_ratio_table.csv)
 
-**4) Prix Moyenne par Client**
+**4) Prix Moyen par Client**
 
 [Cliquez afin d'observer l'interrogation de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_price_per_accomodate.sql)
 
 [Cliquez pour voir la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_price_per_guest_table.csv)
+
+Ces codes de SQL calculent le prix moyen par voyageur dans chaque quartier de chaque marché métropolitain. Greenwich Village à New York possède le prix moyen le plus élevé par invité, ce qui est le résultat du consentement à payer touristique exceptionnellement fort en raison du fondement historique de Manhattan, de l’offre foncière inélastique et sa localisation centrale. En plus, selon l’analyse totale, les prix de New York sont plus élevés, alors que Tokyo est la ville la plus abordable en termes de prix unitaires moyens. La situation de Tokyo pourrait s’expliquer par sa grande capacité d’invité et la dépréciation macroéconomique de JPY par rapport à USD et EUR.
+
+Un filtrage (HAVING COUNT(*) >= 15) a aussi été appliqué à la fin de la requête afin d’éviter le biais de taille d'échantillon. Par conséquent, les quartiers statistiquement représentatifs ont été inclus dans la liste.
+
+Additionnellement, le rapport du prix total moyen au nombre de voyageurs moyen n’est pas tout à fait égal au prix moyen par invité dans le tableau. Cela pourrait se clarifier par l’Inégalité de Jensen, soulignant la différence mathématique entre la moyenne des rapports et le rapport des moyennes.
 
 **5) Taux d'Occupation Moyenne selon la Profile d'Hôte**
 
