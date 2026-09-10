@@ -73,7 +73,7 @@ R.utils
 
 This query includes CREATE TABLE statement for data importing process.
 
-**1) Superhost Profiles & Exploratory Data Analysis**
+**1) Exploratory Data Analysis & Host Demographics**
 
 [Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Baseline%20EDA%26Overview.sql)
 
@@ -224,7 +224,7 @@ R.utils
 
 Cette interrogation inclut l'instruction CREATE TABLE pour le processus de l'importation de données.
 
-**1)Profiles de Superhôte & Analyse Exploratoire de Données**
+**1) Analyse Exploratoire de Données & Profiles de Superhôte**
 
 [Cliquez pour observer l'interrogation de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Baseline%20EDA%26Overview.sql)
 
