@@ -138,7 +138,7 @@ It was intended to analyze average monthly / yearly occupancy rates and prices o
 2-	Artificial Occupancy:
 Single hosts have tendency to keep the renting blocked when it’s under their own use. The algorithm counts blocked days as occupied days, leading to less availability as a result of the artificial occupancy.
 
-3-	Authentic and More Localized Guest Preference
+3-	Authentic and more localized guest preference
 
 In terms of average prices per host profiles in each metropole, London and Paris have higher average prices. Also, it is crucial to highlight a counterintuitive fact: In Paris and Tokyo, average price per host profile does not reach its highest value at commercial host category. This incident has a few roots:
 
@@ -295,7 +295,7 @@ Les taux d’occupation mensuelle / annuelle moyenne et les prix des profiles d�
 2-	Occupation Artificielle: 
 Les hôtes individuels possèdent la tendance de bloquer les dates sur leurs calendriers pendant leurs propres usages. L’algorithme compte les jours bloqués comme les jours occupés, conduisant à moins de disponibilité à la conséquence de l’occupation artificielle.
 
-3-	Préférence de Voyageurs Authentique et Plus Localisée
+3-	Préférence authentique et plus localisée de voyageurs
 
 En termes de prix moyens par profiles d’hôte dans chaque marché métropolitain, Londres et Paris ont des prix moyens plus élevés. En plus, il est indispensable de souligner un fait à contre-pied : À Paris et Tokyo, le prix moyen par profile n’accède pas à sa valeur maximale dans la catégorie d’hôte commercial. Cet incident a certaines racines :
 
