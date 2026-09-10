@@ -146,7 +146,7 @@ In terms of average prices per host profiles in each metropole, London and Paris
 In Paris and Tokyo, there are strict housing laws (Loi Élan in Paris & Minpaku Law in Tokyo), due to which, commercial hosts rent compact studios in order to be able to get legal permission. In this case, they naturally command lower absolute headline prices compared to the larger primary residences listed by non-commercial hosts.
 
 2-	Outliers:
-Non-commercial hosts sometimes list high-value, unique residences (e.g., luxury apartments with scenic views), which skews non-commercial averages upward. In contrast, commercial hosts keep the prices at a normal level to not take risks.
+Non-commercial hosts sometimes list high-value, unique residences (e.g., luxury apartments with scenic views), which skew non-commercial averages upward. In contrast, commercial hosts keep the prices at a normal level to not take risks.
 
 **7) Neighbourhoods with Maximum Average Price**
 
@@ -287,6 +287,23 @@ Le but essentiel de cette interrogation qui aussi contient CTE est de calculer l
 [Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_occupancy.sql)
 
 [Cliquez afin d'observer le tableau de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_occupancy_table.csv)
+
+Les taux d’occupation mensuelle / annuelle moyenne et les prix des profiles d’ hôte différents qui ont été catégorisés selon le nombre de leurs annonces ont été analysés. L’échantillon distingue 4 catégories: hôte individuel, hôte modeste, hôte moyen, hôte commercial. C’est normal de présumer que les locations des hôtes commerciaux auraient les taux d’occupation plus élevés. Néanmoins, il faut indiquer que les taux d’occupation annuelle moyenne accèdent au zénith chez les profiles d’hôte individuel à Londres, New York et Paris. Cette situation pourrait se clarifier par des faits suivants :
+
+1-	Puisque les hôtes individuels généralement louent leurs propres appartements ou chambres vides afin de gagner un peu d’argent au lieu de tenir vacant cet espace, sans revenu; ils sous-évaluent leurs logements proposés relative aux hôtes commerciaux qui pointe aux marges bénéficiaires plus hautes.  La loi de demande indique que la quantité demandée augmente quand le prix se positionne vers le bas.
+
+2-	Occupation Artificielle: 
+Les hôtes individuels possèdent la tendance de bloquer les dates sur leurs calendriers pendant leurs propres usages. L’algorithme compte les jours bloqués comme les jours occupés, conduisant à moins de disponibilité à la conséquence de l’occupation artificielle.
+
+3-	Préférence de Voyageurs Authentique et Plus Localisée
+
+En termes de prix moyens par profiles d’hôte dans chaque marché métropolitain, Londres et Paris ont des prix moyens plus élevés. En plus, il est indispensable de souligner un fait à contre-pied : À Paris et Tokyo, le prix moyen par profile n’accède pas à sa valeur maximale dans la catégorie d’hôte commercial. Cet incident a certaines racines :
+
+1-	Régulations Légales & Optimisation d’Espace: 
+Paris et Tokyo imposent des lois strictes d’hébergement (Loi Élan Paris & Loi de Minpaku Tokyo), en raison desquelles les hôtes commerciaux louent des studios compacts afin de pouvoir obtenir la permission légale. Dans ce cas, ils affichent naturellement des prix faciaux absolus plus bas que les résidences principales de plus grande taille proposées par des hôtes non commerciaux.
+
+2-	Valeurs Aberrantes: 
+Les hôtes non commerciaux listent parfois des résidences uniques de valeur haute ( par exemple des appartements luxueux ayant des vues panoramiques) qui inclinent les moyennes non commerciales vers le haut. Au contraire, les hôtes commerciaux préfèrent conserver la stabilité et le niveau normal des prix pour ne pas prendre de risque.
 
 **7) Quartiers avec le Prix Moyen Maximal**
 
