@@ -89,13 +89,11 @@ This SQL query was designed for exploratory data analysis. It examines the empir
 
 **Engagement & Feedback:** Superhosts register higher review volumes and rating scores, reinforcing platform trust.
 
-**2) Price Premium on Average Price Increase when Host is Superhost**
+**2) Hedonic Amenity Valuation & Consumer Satisfaction Dynamics**
 
-[Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Price-Superhost-Relationship.sql)
+[Click here to observe the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/hedonic_amenity_valuation.sql)
 
-[Click here to observe the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/price_superhost_table.csv)
-
-In this CTE-based query, it was intended to calculate the average price increase as a price premium when the host is superhost. The results indicate that maximum superhost premium is observed in Tokyo which is followed by London, Paris, and New York in order.
+[Click here to observe the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/hedonic_amenity_valuation_table.csv)
 
 **3) Herfindahl-Hirschman Index & Concentration Ratio**
 
@@ -119,7 +117,15 @@ At the end of the query, a filtering (HAVING COUNT(*) >= 15) was applied in orde
 
 Additionally, the ratio of average total price to average accommodates is not entirely equal to average price per guest in the table. This can be explained fundamentally by Jensen’s Inequality, highlighting the mathematical difference between the mean of ratios and the ratio of means.
 
-**5) Average Occupancy Rate based on Host Profiles**
+**5) Price Premium on Average Price Increase when Host is Superhost**
+
+[Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Price-Superhost-Relationship.sql)
+
+[Click here to observe the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/price_superhost_table.csv)
+
+In this CTE-based query, it was intended to calculate the average price increase as a price premium when the host is superhost. The results indicate that maximum superhost premium is observed in Tokyo which is followed by London, Paris, and New York in order.
+
+**6) Average Occupancy Rate based on Host Profiles**
 
 [Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_occupancy.sql)
 
@@ -142,7 +148,7 @@ In Paris and Tokyo, there are strict housing laws (Loi Élan in Paris & Minpaku 
 2-	Outliers:
 Non-commercial hosts sometimes list high-value, unique residences (e.g., luxury apartments with scenic views), which skews non-commercial averages upward. In contrast, commercial hosts keep the prices at a normal level to not take risks.
 
-**6) Neighbourhoods with Maximum Average Price**
+**7) Neighbourhoods with Maximum Average Price**
 
 [Click here to view the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/max_price_neighbourhoods.sql)
 
@@ -240,13 +246,11 @@ Cette interrogation a été désignée pour l’analyse exploratoire de données
 
 **Engagement & Feed-back :** Les superhôtes enregistrent des volumes plus grands de critiques et de meilleurs scores d’évaluation, ceux qui renforcent la confiance envers la plateforme.
 
-**2) Hausse Moyenne des Prix Induite par le Statut de Superhôte**
+**2) Valorisation Hédonique des Équipements et Dynamiques de Satisfaction de Clients**
 
-[Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Price-Superhost-Relationship.sql)
+[Cliquez afin d'observer les codes de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/hedonic_amenity_valuation.sql)
 
-[Cliquez pour observer la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/price_superhost_table.csv)
-
-Le but essentiel de cette interrogation qui aussi contient CTE est de calculer l’augmentation de prix moyenne comme une prime de prix quand l’hôte est un superhôte. Les résultats indiquent que la prime maximale de superhôte est observée à Tokyo qui est suivi par Londres, Paris et New York en ordre.
+[Cliquez pour observer le tableau de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/hedonic_amenity_valuation_table.csv)
 
 **3) Indexe de Herfindahl-Hirschman & Ratio de Concentration**
 
@@ -262,7 +266,7 @@ En raison de la version non-filtrée de l’interrogation de SQL, une table cont
 
 [Cliquez afin d'observer l'interrogation de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_price_per_accomodate.sql)
 
-[Cliquez pour voir la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_price_per_guest_table.csv)
+[Cliquez pour voir le tableau de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_price_per_guest_table.csv)
 
 Ces codes de SQL calculent le prix moyen par voyageur dans chaque quartier de chaque marché métropolitain. Greenwich Village à New York possède le prix moyen le plus élevé par invité, ce qui est le résultat du consentement à payer touristique exceptionnellement fort en raison du fondement historique de Manhattan, de l’offre foncière inélastique et sa localisation centrale. En plus, selon l’analyse totale, les prix de New York sont plus élevés, alors que Tokyo est la ville la plus abordable en termes de prix unitaires moyens. La situation de Tokyo pourrait s’expliquer par sa grande capacité d’invité et la dépréciation macroéconomique de JPY par rapport à USD et EUR.
 
@@ -270,13 +274,21 @@ Un filtrage (HAVING COUNT(*) >= 15) a aussi été appliqué à la fin de la requ
 
 Additionnellement, le rapport du prix total moyen au nombre de voyageurs moyen n’est pas tout à fait égal au prix moyen par invité dans le tableau. Cela pourrait se clarifier par l’Inégalité de Jensen, soulignant la différence mathématique entre la moyenne des rapports et le rapport des moyennes.
 
-**5) Taux d'Occupation Moyenne selon la Profile d'Hôte**
+**5) Hausse Moyenne des Prix Induite par le Statut de Superhôte**
+
+[Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/Price-Superhost-Relationship.sql)
+
+[Cliquez pour observer la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/price_superhost_table.csv)
+
+Le but essentiel de cette interrogation qui aussi contient CTE est de calculer l’augmentation de prix moyenne comme une prime de prix quand l’hôte est un superhôte. Les résultats indiquent que la prime maximale de superhôte est observée à Tokyo qui est suivi par Londres, Paris et New York en ordre.
+
+**6) Taux d'Occupation Moyenne selon la Profile d'Hôte**
 
 [Cliquez pour voir les codes de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_occupancy.sql)
 
-[Cliquez afin d'observer la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_occupancy_table.csv)
+[Cliquez afin d'observer le tableau de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_occupancy_table.csv)
 
-**6) Quartiers avec la Prix Moyenne Maximale**
+**7) Quartiers avec la Prix Moyenne Maximale**
 
 [Cliquez afin de voir les codes de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/max_price_neighbourhoods.sql)
 
