@@ -288,7 +288,7 @@ Le but essentiel de cette interrogation qui aussi contient CTE est de calculer l
 
 [Cliquez afin d'observer le tableau de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_occupancy_table.csv)
 
-**7) Quartiers avec la Prix Moyenne Maximale**
+**7) Quartiers avec le Prix Moyen Maximal**
 
 [Cliquez afin de voir les codes de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/max_price_neighbourhoods.sql)
 
