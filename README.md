@@ -33,7 +33,7 @@ Microsoft SQL Server & SQL: Exploratory Data Analysis / Data Analytics / Correla
 
 Tableau: Data Visualization
 
-# R
+### R
 
 The raw ingestion and transformation pipeline was engineered in R.
 
@@ -65,7 +65,7 @@ R.utils
 
 [Processed Airbnb Dataset (CSV)](https://drive.google.com/file/d/1xwBVhIU6OFKY_Cv9ePDZQ42gRMZTo5QX/view?usp=sharing)
 
-# SQL
+### SQL
 
 **Data Importing**
 
@@ -154,7 +154,7 @@ Non-commercial hosts sometimes list high-value, unique residences (e.g., luxury 
 
 [Click here to view the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/max_price_neighbourhoods_table.csv)
 
-# TABLEAU
+### TABLEAU
 
 --
 
@@ -190,7 +190,7 @@ Microsoft SQL Server & SQL: Analyse exploratoire de données / Analytique de don
 
 Tableau: Visualisation de données
 
-# R
+### R
 
 La conduite de l’ingestion et de la transformation brutes a été construite en R.
 
@@ -222,7 +222,7 @@ R.utils
 
 [Document de CSV](https://drive.google.com/file/d/1xwBVhIU6OFKY_Cv9ePDZQ42gRMZTo5QX/view?usp=sharing)
 
-# SQL
+### SQL
 
 **Importation de Données**
 
@@ -294,7 +294,7 @@ Le but essentiel de cette interrogation qui aussi contient CTE est de calculer l
 
 [Cliquez pour observer la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/max_price_neighbourhoods_table.csv)
 
-# TABLEAU
+### TABLEAU
 
 --
 
