@@ -105,6 +105,18 @@ As a result of the unfiltered version of the SQL query, a big table containing t
 
 [Click here to view the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/top_50_hosts_hhi_conc_ratio_table.csv)
 
+In this query, percentages of market shares per host, Herfindahl-Hirschman indices per city, and concentration ratios (CR1, CR4, and CR10) were calculated to analyze the level of competition in the short-term rental market and to display the total market share of the biggest n hosts. 
+
+The empirical results reveal that market shares per host and HHI indexes per city are extremely low. The reason for this case is the highly competitive nature of the short-term accommodation market. Specifically, the market structure is highly atomized with negligible market concentration. London turns out to be the most competitive city in terms of rental market with an HHI index of nearly 2.5, whereas New York is the least competitive metropolitan market with an approximate index of 12. This case can be explained by the following:
+
+1-	New York’s Local Law 18:
+New York has applied strict restrictions on short-term rentals. This law has disqualified thousands of casual hosts. Therefore, the rest of the hosts’ market shares disproportionately increased.
+
+2-	London’s Deregulation Act:
+London emerges as the most fragmented and competitive market, sustained by a massive volume of single-unit casual hosts operating under the 90-day allowance. In London, obtaining official planning permission from the local authority is mandatory for renting out a residential property on a short-term basis for more than 90 days a year. This obligation makes it difficult for corporate giants to keep properties listed on Airbnb during the whole year, leaving the market largely to individual property owners who rent out their own homes on a temporary basis or to those with small portfolios.
+
+The query includes top 50 hosts for a more straightforward analysis. Lastly, CR1, CR4, and CR10 values were also examined. Accordingly, New York exhibits the highest concentration ratios, while London records the lowest total market shares across each category. This contrast can be explained by London’s casual hosting and fewer barriers to entry promoting decentralized supply as well as New York’s strict regulations and housing diversity.
+
 **4) Average Price per Guest**
 
 [Click here to observe the SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/avg_price_per_accomodate.sql)
