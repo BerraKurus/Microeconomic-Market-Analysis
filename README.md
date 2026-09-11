@@ -109,10 +109,10 @@ In this query, percentages of market shares per host, Herfindahl-Hirschman indic
 
 The empirical results reveal that market shares per host and HHI indexes per city are extremely low. The reason for this case is the highly competitive nature of the short-term accommodation market. Specifically, the market structure is highly atomized with negligible market concentration. London turns out to be the most competitive city in terms of rental market with an HHI index of nearly 2.5, whereas New York is the least competitive metropolitan market with an approximate index of 12. This case can be explained by the following:
 
-1-	New York’s Local Law 18:
+**1-	New York’s Local Law 18:**
 New York has applied strict restrictions on short-term rentals. This law has disqualified thousands of casual hosts. Therefore, the rest of the hosts’ market shares disproportionately increased.
 
-2-	London’s Deregulation Act:
+**2-	London’s Deregulation Act:**
 London emerges as the most fragmented and competitive market, sustained by a massive volume of single-unit casual hosts operating under the 90-day allowance. In London, obtaining official planning permission from the local authority is mandatory for renting out a residential property on a short-term basis for more than 90 days a year. This obligation makes it difficult for corporate giants to keep properties listed on Airbnb during the whole year, leaving the market largely to individual property owners who rent out their own homes on a temporary basis or to those with small portfolios.
 
 The query includes top 50 hosts for a more straightforward analysis. Lastly, CR1, CR4, and CR10 values were also examined. Accordingly, New York exhibits the highest concentration ratios, while London records the lowest total market shares across each category. This contrast can be explained by London’s casual hosting and fewer barriers to entry promoting decentralized supply as well as New York’s strict regulations and housing diversity.
@@ -145,19 +145,19 @@ In this CTE-based query, it was intended to calculate the average price increase
 
 It was intended to analyze average monthly / yearly occupancy rates and prices of different host profiles which were categorized based on the number of their listings. There exist 4 categories as single host, small multi-host, medium multi-host, and commercial host. It is normal to expect that commercial hosts’ rentings would have higher occupancy rates. However, it is worth indicating that in London, New York, and Paris; average yearly occupation rates reach the top at single host profiles. This situation can be explained by several facts:
 
-1-	Single hosts generally rent their own houses or empty rooms to make some money instead of keeping that place empty without earning. Therefore, they underprice their listings relative to commercial hosts who target higher profit margins. The law of demand indicates that quantity demanded increases when the price goes down.
+**1-**	Single hosts generally rent their own houses or empty rooms to make some money instead of keeping that place empty without earning. Therefore, they underprice their listings relative to commercial hosts who target higher profit margins. The law of demand indicates that quantity demanded increases when the price goes down.
 
-2-	Artificial Occupancy:
+**2-	Artificial Occupancy:**
 Single hosts have tendency to keep the renting blocked when it’s under their own use. The algorithm counts blocked days as occupied days, leading to less availability as a result of the artificial occupancy.
 
-3-	Authentic and more localized guest preference
+**3-**	Authentic and more localized guest preference
 
 In terms of average prices per host profiles in each metropole, London and Paris have higher average prices. Also, it is crucial to highlight a counterintuitive fact: In Paris and Tokyo, average price per host profile does not reach its highest value at commercial host category. This incident has a few roots:
 
-1-	Legal Regulations & Space Optimization:
+**1-	Legal Regulations & Space Optimization:**
 In Paris and Tokyo, there are strict housing laws (Loi Élan in Paris & Minpaku Law in Tokyo), due to which, commercial hosts rent compact studios in order to be able to get legal permission. In this case, they naturally command lower absolute headline prices compared to the larger primary residences listed by non-commercial hosts.
 
-2-	Outliers:
+**2-	Outliers:**
 Non-commercial hosts sometimes list high-value, unique residences (e.g., luxury apartments with scenic views), which skew non-commercial averages upward. In contrast, commercial hosts keep the prices at a normal level to not take risks.
 
 **7) Neighbourhoods with Maximum Average Price**
@@ -302,19 +302,19 @@ Le but essentiel de cette interrogation qui aussi contient CTE est de calculer l
 
 Les taux d’occupation mensuelle / annuelle moyenne et les prix des profiles d’ hôte différents qui ont été catégorisés selon le nombre de leurs annonces ont été analysés. L’échantillon distingue 4 catégories: hôte individuel, hôte modeste, hôte moyen, hôte commercial. C’est normal de présumer que les locations des hôtes commerciaux auraient les taux d’occupation plus élevés. Néanmoins, il faut indiquer que les taux d’occupation annuelle moyenne accèdent au zénith chez les profiles d’hôte individuel à Londres, New York et Paris. Cette situation pourrait se clarifier par des faits suivants :
 
-1-	Puisque les hôtes individuels généralement louent leurs propres appartements ou chambres vides afin de gagner un peu d’argent au lieu de tenir vacant cet espace, sans revenu; ils sous-évaluent leurs logements proposés relative aux hôtes commerciaux qui pointe aux marges bénéficiaires plus hautes.  La loi de demande indique que la quantité demandée augmente quand le prix se positionne vers le bas.
+**1-**	Puisque les hôtes individuels généralement louent leurs propres appartements ou chambres vides afin de gagner un peu d’argent au lieu de tenir vacant cet espace, sans revenu; ils sous-évaluent leurs logements proposés relative aux hôtes commerciaux qui pointe aux marges bénéficiaires plus hautes.  La loi de demande indique que la quantité demandée augmente quand le prix se positionne vers le bas.
 
-2-	Occupation Artificielle: 
+**2-	Occupation Artificielle:**
 Les hôtes individuels possèdent la tendance de bloquer les dates sur leurs calendriers pendant leurs propres usages. L’algorithme compte les jours bloqués comme les jours occupés, conduisant à moins de disponibilité à la conséquence de l’occupation artificielle.
 
-3-	Préférence authentique et plus localisée de voyageurs
+**3-**	Préférence authentique et plus localisée de voyageurs
 
 En termes de prix moyens par profiles d’hôte dans chaque marché métropolitain, Londres et Paris ont des prix moyens plus élevés. En plus, il est indispensable de souligner un fait à contre-pied : À Paris et Tokyo, le prix moyen par profile n’accède pas à sa valeur maximale dans la catégorie d’hôte commercial. Cet incident a certaines racines :
 
-1-	Régulations Légales & Optimisation d’Espace: 
+**1-	Régulations Légales & Optimisation d’Espace:**
 Paris et Tokyo imposent des lois strictes d’hébergement (Loi Élan Paris & Loi de Minpaku Tokyo), en raison desquelles les hôtes commerciaux louent des studios compacts afin de pouvoir obtenir la permission légale. Dans ce cas, ils affichent naturellement des prix faciaux absolus plus bas que les résidences principales de plus grande taille proposées par des hôtes non commerciaux.
 
-2-	Valeurs Aberrantes: 
+**2-	Valeurs Aberrantes:**
 Les hôtes non commerciaux listent parfois des résidences uniques de valeur haute ( par exemple des appartements luxueux ayant des vues panoramiques) qui inclinent les moyennes non commerciales vers le haut. Au contraire, les hôtes commerciaux préfèrent conserver la stabilité et le niveau normal des prix pour ne pas prendre de risque.
 
 **7) Quartiers avec le Prix Moyen Maximal**
