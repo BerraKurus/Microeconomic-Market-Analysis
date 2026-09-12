@@ -264,7 +264,7 @@ Cette interrogation a été désignée pour l’analyse exploratoire de données
 
 [Cliquez pour observer le tableau de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/hedonic_amenity_valuation_table.csv)
 
-**3) Indexe de Herfindahl-Hirschman & Ratio de Concentration**
+**3) Indice de Herfindahl-Hirschman & Ratio de Concentration**
 
 [Cliquez afin d'observer l'interrogation non-filtrée de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/hhi_index_conc_ratio.sql)
 
@@ -273,6 +273,18 @@ En raison de la version non-filtrée de l’interrogation de SQL, une table cont
 [Cliquez pour voir l'interrogation filtrée de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/top_50_hosts_hhi_conc_ratio.sql) : Cette interrogation filtrée contient les 50 premiers hôtes au zénith, rendant l’analyse plus directe et simple.
 
 [Cliquez afin de voir la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/top_50_hosts_hhi_conc_ratio_table.csv)
+
+Dans cette requête ; les pourcentages des parts de marché par hôte, les indices de Herfindahl-Hirschman par ville et les ratios de concentration (CR1, CR4, CR10) ont été calculés pour que le niveau de concurrence dans le marché de l'hébergement de courte durée soit analysé et que la part de marché totale de n hôtes les plus forts soit affichée. 
+
+Les résultats empiriques révèlent que les parts de marché par hôte et les indices de HHI par ville sont extrêmement bas. La raison pour ce cas est la nature fortement concurrentielle du marché de la location de courte durée. Spécifiquement, la structure de marché est hautement atomisée avec la concentration négligeable de marché. Londres devient la ville la plus concurrentielle en termes de marché de l'hébergement de courte durée avec un indice de HHI de presque 2.5, alors que New York est le marché métropolitain le moins concurrentiel avec un indice de 12, quasiment. Ce phénomène pourrait s’expliquer par:
+
+**1-	Loi Locale 18 de New York:**
+New York applique des restrictions strictes sur les locations de courte durée. Puisque cette loi disqualifie milliers d’hôtes occasionnels, les parts de marché du reste des hôtes ont disproportionnément augmentée. 
+
+**2-	Acte de Dérégulation de Londres:**
+Londres apparaît le marché le plus fragmenté et concurrentiel, soutenu par un volume massif des hôtes individuels libres opérant dans le cadre de la limite légale des 90 jours par an. À Londres, il est obligatoire d’obtenir l’autorisation officielle d’urbanisme de l’autorité locale afin de louer une propriété résidentielle pour courte durée de plus de 90 jours par année. Puisque cette obligation rend la situation difficile pour les géants corporatifs qui tiendraient leurs propriétés listées sur Airbnb pendant toute l’année; le marché est largement laissé aux hôtes occasionnels qui louent leurs appartements temporairement ou aux propriétaires de petits portefeuilles.
+
+Cette interrogation inclut les 50 hôtes les plus forts pour une analyse plus explicite. Enfin, les valeurs de CR1, CR4 et CR10 ont aussi été examinées. Selon les résultats clés, New York représente les ratios de concentration les plus élevés, pendant que Londres inscrit les parts de marché totales les plus basses dans chaque catégorie. Ce contraste pourrait s’éclaircir par des locations plus libres et moins de barrières d’entrée causant à la promotion de l’offre décentralisée à Londres, aussi que les régulations strictes et la diversité d’hébergement de New York.
 
 **4) Prix Moyen par Client**
 
