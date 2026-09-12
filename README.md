@@ -166,6 +166,8 @@ Non-commercial hosts sometimes list high-value, unique residences (e.g., luxury 
 
 [Click here to view the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/max_price_neighbourhoods_table.csv)
 
+In this query, neighbourhoods with maximum average prices were identified across 4 metropolitan markets. According to the results, 3 top-ranking neighbourhoods, in each city, exhibiting maximum average price generally share common features: central locations, high-end residential stock, and proximity to major tourist attractions. However, the data reveals two conspicuous statistical outliers: Fort Wadsworth in New York and Hinohara-Mura in Tokyo. Fort Wadsworth does not have a central location, but its average price is exceptionally high due to the existence of a few extremely expensive houses. Likewise, Hinohara-Mura is a village. Therefore, the aggregate listing supply is low. The inventory consists predominantly of spacious, traditional vacation lodges rather than standard compact urban apartments. This situation skews the average price upward. In other words, both of the areas reflect sample size distortion.
+
 ### TABLEAU
 
 --
