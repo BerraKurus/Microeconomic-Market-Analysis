@@ -337,6 +337,8 @@ Les hôtes non commerciaux listent parfois des résidences uniques de valeur hau
 
 [Cliquez pour observer la table de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/max_price_neighbourhoods_table.csv)
 
+Les quartiers ayant les prix moyens les plus hauts ont été identifiés pour 4 marchés métropolitains. Selon les résultats, ces quartiers partagent des caractéristiques communes: localisations centrales, logements résidentiels haut de gamme et proximité des principales attractions touristiques. Néanmoins, les données révèlent deux valeurs statistiques aberrantes: Fort Wadsworth (New York) et Hinohara-Mura (Tokyo). Fort Wadsworth ne possède pas une localisation centrale, mais son prix moyen est exceptionnellement élevé en raison du fait que certaines locations chères y existent. De façon similaire, Hinohara-Mura est un village où l’offre totale d’annonces est faible. L’inventaire se compose à majorité des chalets spacieux au lieu des appartements compacts standards urbains, ceux qui gonflent le prix moyen. En d’autres termes, tous les deux quartiers reflètent la distorsion de taille d’échantillon.
+
 ### TABLEAU
 
 --
