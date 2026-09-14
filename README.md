@@ -284,6 +284,24 @@ Cette interrogation a été désignée pour l’analyse exploratoire de données
 
 [Cliquez pour observer le tableau de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/hedonic_amenity_valuation_table.csv)
 
+Dans cette requête, un cadre d’évaluation hédonique a été exécuté en catégorisant 14 aménités en 3 groupes: business-prêt, équipement résidentiel, profil luxueux. Le but était d’évaluer comment ces caractéristiques influencent les prix unitaires et les scores moyens d’évaluation à travers 4 marchés métropolitains.
+
+**Perspectives Clés:**
+
+**1-**	Dans chaque marché métropolitain, les scores de satisfaction baissent pendant que le niveau d’équipement résidentiel diminue. Cette situation prouve que les commodités résidentielles comme la cuisine, le réfrigérateur, les machines à laver/sécher, le climatiseur et l’ascenseur sont les déterminants clés de la satisfaction de clients. En d’autres termes, ces caractéristiques pourraient être considérées comme analogues aux facteurs d’hygiène selon la théorie bifactorielle de Herzberg, puisqu’elles sont perçues comme obligatoires. En plus, l’équipement résidentiel est fondamental, les clients ont des consentements à payer plus hauts pour celui-ci, qui pourrait être observé dans les résultats, aussi. 
+
+**2-**	Puisque les scores d’évaluation ont la tendance d’augmenter dans chaque ville, quand le nombre de prestations remonte, ceteris paribus; il est possible de déduire que celles-ci améliorent la qualité perçue et le surplus des consommateurs. En outre, en raison de la rareté induite par un seuil strict, il existe seulement 22 annonces dans la catégorie luxueuse, car il est improbable qu’une maison ait tous les équipements, simultanément. En plus, ces 22 annonces appartiennent à Londres en raison de son architecture de type de villas dans les quartiers extérieurs. 
+
+**3-**	Selon les résultats, les catégories standard business-prête, hautement équipée et modestement luxueux partagent la plupart des annonces. Cela révèle les comportements des hôtes qui maximisent le profit en optimisant le ROI (retour sur investissement) en ciblant le segment moyen-haut de gamme. 
+
+**Anomalies & Explications:**
+
+**1-**	À Tokyo, différent de New York, les annonces dans la catégorie entièrement adaptée aux voyages d'affaires ont les prix moyens par personne plus bas que les propriétés ordinaires. Cela indique que les hôtes à Tokyo servent les équipements de travail en baissant leurs tarifs, puisqu’ils visent plus d’occupation et une rotation plus rapide des séjours.
+
+**2-**	Contrairement à l’intuition, les annonces dans la catégorie luxueuse à Londres ont des prix moyens plus bas que dans la catégorie modestement luxueuse. Cette situation pourrait s’expliquer par le prix dilué, causé par l’effet de dénominateur. Les propriétés luxueuses se forment de grandes maisons où 8-10 voyageurs peuvent être accueillis. Par conséquent, le prix total devient dilué après être divisé par un nombre plus élevé de personnes. 
+
+**3-**	À Paris, certaines annonces « non-équipée » ont à peu près le même prix par voyageur que les unités « totalement équipée ». Ce cas pourrait se clarifier par le biais de variable omise où la localisation domine. Les localisations les plus chères de Paris comme Louvre, Marais, Saint-Germain etc. incorporent des appartements plus petits à cause des restrictions architecturales. Dès lors, certains équipements fondamentaux peuvent ne pas être présents dans ce genre d’hébergements. 
+
 **3) Indice de Herfindahl-Hirschman & Ratio de Concentration**
 
 [Cliquez afin d'observer l'interrogation non-filtrée de SQL](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/hhi_index_conc_ratio.sql)
