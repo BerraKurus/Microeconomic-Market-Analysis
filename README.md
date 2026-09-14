@@ -95,6 +95,24 @@ This SQL query was designed for exploratory data analysis. It examines the empir
 
 [Click here to observe the SQL table](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/hedonic_amenity_valuation_table.csv)
 
+In this query, a hedonic valuation framework was implemented by categorizing 14 amenities into three groups: business-ready, residentially-equipped, and luxury profile. The objective was to evaluate how these feature sets influence unit pricing and average review scores across the four metropolitan markets.
+
+**Key Insights:**
+
+**1-**	In each metropolitan market, satisfaction scores go down as residential equipment level decreases. This situation proves that residential amenities such as kitchen, refrigerator, washer, dryer, air conditioner, and elevator are key determinants of customer satisfaction. In other words, these features can be viewed as analogous to hygiene factors according to Herzberg’s two-factor theory, as they are perceived as a “must”. Also, as residential equipment is fundamental, customers have higher willingness-to-pay for these, which can also be observed in the results.
+
+**2-**	In each city, review scores tend to go upward while facilities and equipment levels increase, ceteris paribus. Therefore, it can be deduced that amenities enhance perceived quality and consumer surplus. However, due to high threshold sparsity, there are only 22 listings in the luxurious category, because it is highly improbable for a house to have all of the luxurious amenities simultaneously. Also, these 22 listings belong to London as a result of its villa-type architecture in outer neighbourhoods.
+
+**3-**	According to the results, standard business ready, highly equipped, and moderately luxurious categories account for the largest share of listings. This reveals profit-maximizing behavior of the hosts who strategically optimize return on investment by targeting a medium-high quality segment.
+
+**Abnormalities & Explanations:**
+
+**1-**	In Tokyo, different from New York, full business-ready listings have lower average prices than standard properties. This indicates that hosts in Tokyo serve business amenities by cutting price as they target higher occupancy and faster turnover. 
+
+**2-**	Counterintuitively, the listings in luxurious category in London have much lower average prices per person than in moderately luxurious category. This situation can be explained by diluted price driven by denominator effect. Luxurious properties consist of large houses accommodating 8–10 guests. Therefore, the overall price becomes diluted after being divided by a higher number of guests. 
+
+**3-**	In Paris, some “not equipped” listings have approximately the same prices per guest as “fully equipped” units. This case can be enlightened by omitted variable bias where location prevails. Paris’ most expensive central locations such as Louvre, Marais, Saint-Germain etc. contain smaller apartments due to architectural restrictions. Therefore, some fundamental facilities might not be present in this kind of accommodations. 
+
 **3) Herfindahl-Hirschman Index & Concentration Ratio**
 
 [Click here to observe the unfiltered SQL query](https://github.com/BerraKurus/Microeconomic-Market-Analysis/blob/main/hhi_index_conc_ratio.sql)
