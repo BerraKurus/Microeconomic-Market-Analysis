@@ -188,7 +188,11 @@ In this query, neighbourhoods with maximum average prices were identified across
 
 ### TABLEAU
 
---
+**Dashboard 1)**
+
+**Dashboard 2)** ***Microeconomic Pricing Behaviour & Host Dynamics***
+
+[Click here to observe the interactive Tableau dashboard](https://public.tableau.com/app/profile/berra.kuru./viz/MicroeconomicPricingBehaviourHostDynamics/Dashboard1)
 
 *The detailed analysis report is currently being constructed.*
 
@@ -377,7 +381,11 @@ Les quartiers ayant les prix moyens les plus hauts ont été identifiés pour 4 
 
 ### TABLEAU
 
---
+**Tableau de Bord 1)** 
+
+**Tableau de Bord 2)** ***Comportement de Tarification Microéconomique & Dynamiques d'Hôte***
+
+[Cliquez pour observer le tableau de bord interactif](https://public.tableau.com/app/profile/berra.kuru./viz/MicroeconomicPricingBehaviourHostDynamics/Dashboard1)
 
 *Le rapport d'analyse détaillée est en train de se produire.*
 
