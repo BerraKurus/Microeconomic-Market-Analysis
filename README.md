@@ -188,7 +188,9 @@ In this query, neighbourhoods with maximum average prices were identified across
 
 ### TABLEAU
 
-**Dashboard 1)**
+**Dashboard 1)** ***Geographic Density & Regulatory Constraints in Urban Housing***
+
+[Click here to observe the interactive Tableau dashboard](https://public.tableau.com/app/profile/berra.kuru./viz/GeographicDensityRegulatoryConstraintsinUrbanHousing/Dashboard2)
 
 **Dashboard 2)** ***Microeconomic Pricing Behaviour & Host Dynamics***
 
@@ -381,7 +383,9 @@ Les quartiers ayant les prix moyens les plus hauts ont été identifiés pour 4 
 
 ### TABLEAU
 
-**Tableau de Bord 1)** 
+**Tableau de Bord 1)** ***Densité Géographique & Contraintes Réglementaires chez l'Hébergement Urbain***
+
+[Cliquez afin d'observer le tableau de bord interactif](https://public.tableau.com/app/profile/berra.kuru./viz/GeographicDensityRegulatoryConstraintsinUrbanHousing/Dashboard2)
 
 **Tableau de Bord 2)** ***Comportement de Tarification Microéconomique & Dynamiques d'Hôte***
 
