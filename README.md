@@ -458,6 +458,29 @@ Le fait de montrer les graphiques ayant des catégories multiples à travers 30+
 
 [Cliquez pour observer le tableau de bord interactif](https://public.tableau.com/app/profile/berra.kuru./viz/MicroeconomicPricingBehaviourHostDynamics/Dashboard1)
 
+Ce tableau de bord incorpore 7 visualisations, exploitant la méthode de permutation de feuilles à travers deux groupes. Ces graphiques examinent les prix microéconomiques et les dynamiques résidentielles. 
+
+**1.	Diagramme de Dispersion sur la Relation entre le Taux d’Occupation et le Prix:**
+
+Visualise le taux d’occupation mensuel moyen (calculé par une formule personnalisée pendant le processus de visualisation) de chaque quartier métropolitain et le niveau de prix moyen. Les lignes de régression représentent une relation inverse à Tokyo et New York, alors que Londres et Paris témoignent d’une corrélation positive entre les niveaux de prix et les taux d’occupation. La loi de la demande prévaut à Tokyo et New York, puisque la quantité demandée diminue quand le prix augmente. En revanche, Londres et Paris sont les témoins d’un cas contraire à l’intuition comme pour les biens de Veblen où un prix augmentant élargit aussi la quantité demandée. Cela est le résultat de l’effet de localisation dans les milieux prestigieux où la demande est inélastiquement élevée indépendamment du prix d’hébergement. 
+
+**2.	Permutation de Feuilles sur la Carte Proportionnelle:**
+
+**a)	Segmentation de Marché de la Catégorie d’Équipement Résidentiel:**
+
+**b)	Segmentation de Marché de la Catégorie de Business:**
+
+**c)	Segmentation de Marché de la Catégorie Luxe:**
+
+**3.	Permutation de Feuilles sur les Analyses de Profils d’Hôte:**
+
+**a)	Diagramme à Barres sur le Taux d’Occupation Mensuelle:**
+
+**b)	Graphique en Haltères pour l’Analyse de Prix:**
+
+**c)	Diagramme en Boîte pour l’Analyse de Prix:**
+
+
 *Le rapport d'analyse détaillée est en train de se produire.*
 
 </details>
