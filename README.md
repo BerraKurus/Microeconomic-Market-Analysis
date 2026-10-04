@@ -188,7 +188,7 @@ In this query, neighbourhoods with maximum average prices were identified across
 
 ### TABLEAU
 
-**Dashboard 1)** ***Geographic Density & Regulatory Constraints in Urban Housing***
+**DASHBOARD 1)** ***Geographic Density & Regulatory Constraints in Urban Housing***
 
 [Click here to observe the interactive Tableau dashboard](https://public.tableau.com/app/profile/berra.kuru./viz/GeographicDensityRegulatoryConstraintsinUrbanHousing/Dashboard2)
 
@@ -214,9 +214,32 @@ Aggregate listing counts mask heterogeneity in inventory types. For example, in 
 
 Displaying multi-category stacked bars across 30+ metropolitan neighbourhoods degrades ordinal readability. Housing market saturation is first observed at the aggregate level, while submarket compositions and comparisons based on room types are delivered via interactive tooltips.
 
-**Dashboard 2)** ***Microeconomic Pricing Behaviour & Host Dynamics***
+**DASHBOARD 2)** ***Microeconomic Pricing Behaviour & Host Dynamics***
 
 [Click here to observe the interactive Tableau dashboard](https://public.tableau.com/app/profile/berra.kuru./viz/MicroeconomicPricingBehaviourHostDynamics/Dashboard1)
+
+This dashboard integrates 7 visualizations, leveraging the sheet swapping technique across two distinct parameter controls. These graphs examine microeconomic pricing and residential dynamics. 
+
+**1.	Scatter Plot on Occupancy Rate and Price Relationship:**
+
+Plots each neighbourhood’s average monthly occupancy rate (derived via a custom calculated field during the visualization process) and average price level. The regression trend lines reveal an inverse relationship in Tokyo and New York, whereas London and Paris exhibit a positive correlation between price levels and occupancy rates. Law of demand prevails in Tokyo and New York as quantity demanded decreases when price increases. However, London and Paris witness a counterintuitive case as in Veblen goods where an increasing price also increases the quantity demanded. It’s the result of the location effect in prestigious places where demand is inelastically high no matter what the cost of accommodation is. 
+
+**2.	Sheet Swapping on Treemaps:**
+
+**a)	Residential Equipment Category Market Segmentation:**
+
+**b)	Business Category Market Segmentation:**
+
+**c)	Luxury Category Market Segmentation:**
+
+
+**3.	Sheet Swapping on Host Profile Analyses:**
+
+**a)	Monthly Occupancy Rate Bar Chart:**
+
+**b)	Barbell Chart for Price Analysis:**
+
+**c)	Box and Whisker Plot for Price Analysis:**
 
 *The detailed analysis report is currently being constructed.*
 
@@ -405,7 +428,7 @@ Les quartiers ayant les prix moyens les plus hauts ont été identifiés pour 4 
 
 ### TABLEAU
 
-**Tableau de Bord 1)** ***Densité Géographique & Contraintes Réglementaires chez l'Hébergement Urbain***
+**TABLEAU DE BORD 1)** ***Densité Géographique & Contraintes Réglementaires chez l'Hébergement Urbain***
 
 [Cliquez afin d'observer le tableau de bord interactif](https://public.tableau.com/app/profile/berra.kuru./viz/GeographicDensityRegulatoryConstraintsinUrbanHousing/Dashboard2)
 
@@ -431,7 +454,7 @@ Le nombre total d'annonces masque l'hétérogénéité des types de logements. P
 
 Le fait de montrer les graphiques ayant des catégories multiples à travers 30+ quartiers métropolitains dégraderait la lisibilité ordinale. La saturation de marché d’hébergement est premièrement observée au niveau général, alors que les compositions de sous-marché et les comparaisons sur les types de logements ont été livrées par des info-bulles interactives. 
 
-**Tableau de Bord 2)** ***Comportement de Tarification Microéconomique & Dynamiques d'Hôte***
+**TABLEAU DE BORD 2)** ***Comportement de Tarification Microéconomique & Dynamiques d'Hôte***
 
 [Cliquez pour observer le tableau de bord interactif](https://public.tableau.com/app/profile/berra.kuru./viz/MicroeconomicPricingBehaviourHostDynamics/Dashboard1)
 
