@@ -192,6 +192,28 @@ In this query, neighbourhoods with maximum average prices were identified across
 
 [Click here to observe the interactive Tableau dashboard](https://public.tableau.com/app/profile/berra.kuru./viz/GeographicDensityRegulatoryConstraintsinUrbanHousing/Dashboard2)
 
+This dashboard incorporates three interactive visual components designed to analyze spatial density, market structure, and regulatory constraints in urban housing:
+
+**1.	Geographic Density Heatmap:**
+
+Visualizes the spatial distribution of short-term rental supply across urban centers, identifying high-density submarkets and micro-level saturation clusters.
+
+**2.	Grouped Bar Chart on Short-Term vs Long-Term Rental Share Regulations:**
+
+Displays short vs long-term stays as percent of total listings in each city with the help of a calculated field designated to represent the listings based on a threshold (≥30 minimum nights representing long-term stays) in order for regulatory constraints to be observable. Accordingly, London and Paris have the highest rate of short-term listings, driven by flexible annual day caps (90 and 120 days, respectively) relative to New York’s aggressive enforcement of 30-day minimum stay rules under Local Law 18.
+
+**3.	Neighbourhood-Level Market Saturation with Viz in Tooltip:**
+
+Visualizes the neighbourhoods having at least 100 listings in decreasing order in each city. This allows for an extensive analysis in terms of neighbourhood-level rental concentration by taking into account the room types to prevent Simpson’s Paradox and to avoid misleading aggregates. The room types graphs are activated when hovered over each neighbourhood, allowing for interactivity. In this manner, more accurate results can be produced:
+
+**a)	Simpson’s Paradox:**
+
+Aggregate listing counts mask heterogeneity in inventory types. For example, in Bedford-Stuyvesant in New York, approximately 55 % of total listings are composed of private rooms. This explains the reason behind the fact that it was ranked 2nd in terms of total listings in New York. 
+
+**b)	Analysis without Clutter:**
+
+Displaying multi-category stacked bars across 30+ metropolitan neighbourhoods degrades ordinal readability. Housing market saturation is first observed at the aggregate level, while submarket compositions and comparisons based on room types are delivered via interactive tooltips.
+
 **Dashboard 2)** ***Microeconomic Pricing Behaviour & Host Dynamics***
 
 [Click here to observe the interactive Tableau dashboard](https://public.tableau.com/app/profile/berra.kuru./viz/MicroeconomicPricingBehaviourHostDynamics/Dashboard1)
