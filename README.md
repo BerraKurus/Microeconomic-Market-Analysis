@@ -409,6 +409,28 @@ Les quartiers ayant les prix moyens les plus hauts ont été identifiés pour 4 
 
 [Cliquez afin d'observer le tableau de bord interactif](https://public.tableau.com/app/profile/berra.kuru./viz/GeographicDensityRegulatoryConstraintsinUrbanHousing/Dashboard2)
 
+Ce tableau de bord intègre trois éléments visuels interactifs conçus pour que la densité spatiale, la structure de marché et les limitations régulatoires chez l’hébergement urbain soient proprement analysées. 
+
+**1.	Carte de Chaleur sur la Densité Géographique:**
+
+Visualise la distribution spatiale de l’offre de locations de courte durée à travers des centres urbains en identifiant les sous-marchés avec la densité élevée et les groupes de saturation au niveau exhaustif. 
+
+**2.	Diagramme à Barres Groupées : Régulations de Courte vs Longue Durée:**
+
+Montre les hébergements de courte vs longue durée comme le pourcent des annonces totales dans chaque métropole avec l’aide d’un champ calculé représentant les annonces selon un seuil ( ≥30 nuits au minimum représentant les hébergements de longue durée) afin que les limitations régulatoires soient observables. En toute cohérence, Londres et Paris ont les taux les plus élevés des logements de courte durée, provoqué par des plafonds annuels de nuitées plus flexibles  (respectivement de 90 et 120 jours), par rapport à l'application stricte par New York de la règle du séjour minimum de 30 jours dans le cadre de la Loi Locale 18.
+
+**3.	Saturation de Marché au Niveau des Quartiers avec Vue dans l'Info-Bulle:**
+
+Visualise les quartiers ayant au minimum 100 annonces en ordre décroissant dans chaque ville métropolitaine. Cela permet une analyse profonde en termes de concentration de marché au niveau des quartiers en prenant en compte aussi les types de logements afin d’éviter le Paradoxe de Simpson et les agrégations trompeuses. Les graphiques de types de logements sont activées quand le curseur survole sur chaque quartier, favorisant l’interactivité grâce à laquelle des résultats plus précis pourraient se produire. 
+
+**a)	Paradoxe de Simpson:**
+
+Le nombre total d'annonces masque l'hétérogénéité des types de logements. Par exemple, à Bedford-Stuyvesant à New York, à peu près 55 % des annonces totales sont composées de chambres privées. Cela explique la raison derrière le fait que ce quartier prend la deuxième place en classification de New York.
+
+**b)	Analyse sans Surcharge Visuelle:**
+
+Le fait de montrer les graphiques ayant des catégories multiples à travers 30+ quartiers métropolitains dégraderait la lisibilité ordinale. La saturation de marché d’hébergement est premièrement observée au niveau général, alors que les compositions de sous-marché et les comparaisons sur les types de logements ont été livrées par des info-bulles interactives. 
+
 **Tableau de Bord 2)** ***Comportement de Tarification Microéconomique & Dynamiques d'Hôte***
 
 [Cliquez pour observer le tableau de bord interactif](https://public.tableau.com/app/profile/berra.kuru./viz/MicroeconomicPricingBehaviourHostDynamics/Dashboard1)
