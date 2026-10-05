@@ -226,6 +226,8 @@ Plots each neighbourhood’s average monthly occupancy rate (derived via a custo
 
 **2.	Sheet Swapping on Treemaps:**
 
+Leveraging the sheet swapping technique, these treemaps illustrate the market share of each product tier across metropolitan rental markets. Also, the applied color-coding enables the visual identification of the top three dominant segments, highlighting product differentiation at a glance.
+
 **a)	Residential Equipment Category Market Segmentation:**
 
 **b)	Business Category Market Segmentation:**
