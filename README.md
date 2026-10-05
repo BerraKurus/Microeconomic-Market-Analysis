@@ -238,6 +238,12 @@ Out of all these metropolitan markets, Paris’ not equipped listings face a str
 
 **b)	Business Category Market Segmentation:**
 
+Standard business ready listings in London and Paris represent the primary supply backbone in the rental market in business category. It is more common to find a listing having standard amenities than providing an exhaustive inventory. 
+
+Conversely, London’s not business ready listings represent the lowest share of the treemap. 
+
+In terms of pricing, Tokyo still has the lowest average price levels, whereas Paris’ standard business ready category witnesses the highest average nightly rates as a result of the low supply of business ready accommodations relative to compact studios.
+
 **c)	Luxury Category Market Segmentation:**
 
 
