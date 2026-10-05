@@ -230,6 +230,12 @@ Leveraging the sheet swapping technique, these treemaps illustrate the market sh
 
 **a)	Residential Equipment Category Market Segmentation:**
 
+London’s highly equipped category commands the largest inventory volume in the treemap. However, the highest average nightly rates belong to London and Paris’ fully equipped listings. This highlights that highly equipped category provides the biggest amount of supply, whereas hedonic pricing creates a price premium when the amenities are comprehensive. 
+
+Conversely, Tokyo’s listings have the lowest average prices as a result of Minpaku Law and structurally higher price elasticity of demand.
+
+Out of all these metropolitan markets, Paris’ not equipped listings face a stringent quality floor as they have the lowest amount of total listings.
+
 **b)	Business Category Market Segmentation:**
 
 **c)	Luxury Category Market Segmentation:**
