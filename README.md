@@ -500,6 +500,12 @@ En dehors de tous ces marchés métropolitains, les annonces de la catégorie �
 
 **b)	Segmentation de Marché de la Catégorie de Business:**
 
+Les annonces de la catégorie standard business-prêt à Londres et à Paris représentent la base primaire de l’offre du marché d’hébergement dans la catégorie générale de business. La possibilité de trouver une annonce ayant les équipements standards au lieu d’équipements exhaustifs est plus élevée.
+
+À l'inverse, les annonces de la catégorie représentent la plus faible part de volume dans la carte proportionnelle.
+
+En termes de prix, Tokyo affiche encore les niveaux de prix les plus bas, pendant que la catégorie standard business-prêt à Paris témoigne des prix les plus élevés en raison de la faible disponibilité de l'offre des logements de la catégorie business-prêt par rapport aux studios compacts. 
+
 **c)	Segmentation de Marché de la Catégorie Luxe:**
 
 *Le rapport d'analyse détaillée est en train de se produire.*
