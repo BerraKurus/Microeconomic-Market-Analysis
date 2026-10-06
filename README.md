@@ -258,6 +258,8 @@ In this bar chart, each metropolitan market’s average monthly occupancy rates 
 
 **b)	Barbell Chart for Price Analysis:**
 
+This barbell chart evaluates the pricing differential commanded by commercial hosts relative to single hosts. London exhibits the largest price premium as a result of the geographical clustering of commercial portfolios in prime central districts. Conversely, Tokyo displays an inverse relationship where single hosts’ average price is greater than commercial profiles. This counterintuitive situation can be clarified by the fact that commercial hosts’ listings consist of compact, budget-friendly micro-apartments, whereas single hosts rent their large houses at significantly higher rates. 
+
 **c)	Box and Whisker Plot for Price Analysis:**
 
 *The detailed analysis report is currently being constructed.*
