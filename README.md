@@ -504,6 +504,8 @@ Les taux d’occupation mensuels de chaque marché métropolitain ont été exam
 
 **b)	Graphique en Haltères pour l’Analyse de Prix:**
 
+Ce graphique analyse la prime tarifaire obtenue par les hôtes commerciaux par rapport aux hôtes uniques. Londres témoigne de la prime la plus élevée en raison de la concentration géographique des profils commerciaux dans les zones centrales. En revanche, Tokyo affiche une relation inverse où le prix moyen des hôtes individuels est plus élevé que celui des profils commerciaux. Cette situation peut s’expliquer par le fait que les annonces des hôtes commerciaux sont composées d’appartements compacts à des prix abordables, alors que les hôtes individuels louent leurs grandes maisons à des tarifs significativement plus élevés. 
+
 **c)	Diagramme en Boîte pour l’Analyse de Prix:**
 
 
