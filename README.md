@@ -246,6 +246,9 @@ In terms of pricing, Tokyo still has the lowest average price levels, whereas Pa
 
 **c)	Luxury Category Market Segmentation:**
 
+Moderately luxurious listings in London possess the greatest share across metropolitan markets. This situation can be explained by London’s urban planning and moderately luxurious category representing the sweet spot where cost-benefit optimization is realised. 
+
+Paris’ mostly luxurious category has the lowest supply and the highest average price. This scarcity premium arises from prime historic locations where municipal constraints limit upscale inventory and wealthy international demand remains highly price-inelastic. It can also be observed in the treemap that the top-tier 'Fully Luxurious' segment was filtered out of the visual display due to an extremely small sample size (n=22, exclusively in London) to prevent visual clutter and distortion. 
 
 **3.	Sheet Swapping on Host Profile Analyses:**
 
