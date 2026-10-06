@@ -6,7 +6,7 @@ Analyse microéconomique de bout en bout des données Inside Airbnb à l'aide de
 ### Choose the Report's Language / Choisissez la Langue du Rapport :
 
 <details>
-<summary><b>🇬🇧 English Report (Click to read the whole report)</b></summary>
+<summary><b>English Report (Click to read the whole report)</b></summary>
 <br>
 
 **Airbnb Microeconomic Market Analysis**
@@ -262,12 +262,13 @@ This barbell chart evaluates the pricing differential commanded by commercial ho
 
 **c)	Box and Whisker Plot for Price Analysis:**
 
-*The detailed analysis report is currently being constructed.*
+This box and whisker plot displays the price distribution across host profiles (standard vs superhost) in each metropolitan market. Accordingly, it can be deduced that superhosts command higher average prices, validating the presence of a reputation premium. Additionally, the rating scores of cleanliness, location, and overall review scores were integrated into each data point using Viz in Tooltip. This feature allows users to hover over any listing to instantly explore the quality factors behind price differences, showing how high guest satisfaction and great locations help justify premium rates.
+
 
 </details>
 
 <details>
-<summary><b>🇫🇷 Rapport Français (Cliquez pour lire le rapport en entier)</b></summary>
+<summary><b>Rapport Français (Cliquez pour lire le rapport en entier)</b></summary>
 <br>
 
 **Analyse microéconomique du marché Airbnb**
