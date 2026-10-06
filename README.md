@@ -488,6 +488,8 @@ Visualise le taux d’occupation mensuel moyen (calculé par une formule personn
 
 **2.	Permutation de Feuilles sur la Carte Proportionnelle:**
 
+En mobilisant la méthode de permutation de feuilles, ces cartes proportionnelles illustrent la part de marché de chaque palier de produits à travers les marchés métropolitains d’hébergement. De plus, la palette de couleurs appliquée permet l’identification visuelle des trois segments les plus dominants, en soulignant la différenciation de produit en un coup d’œil. 
+
 **a)	Segmentation de Marché de la Catégorie d’Équipement Résidentiel:**
 
 **b)	Segmentation de Marché de la Catégorie de Business:**
