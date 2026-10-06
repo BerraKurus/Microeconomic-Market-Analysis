@@ -496,6 +496,8 @@ En mobilisant la méthode de permutation de feuilles, ces cartes proportionnelle
 
 **c)	Segmentation de Marché de la Catégorie Luxe:**
 
+*Le rapport d'analyse détaillée est en train de se produire.*
+
 **3.	Permutation de Feuilles sur les Analyses de Profils d’Hôte**
 
 **a)	Diagramme à Barres sur le Taux d’Occupation Mensuelle:**
@@ -508,7 +510,7 @@ Ce graphique analyse la prime tarifaire obtenue par les hôtes commerciaux par r
 
 **c)	Diagramme en Boîte pour l’Analyse de Prix:**
 
+Ce diagramme en boîte montre la distribution des prix à travers des profils d’hôte (standard ou super) dans chaque marché métropolitain. Selon les données, les superhôtes affichent des prix moyens plus élevés, vérifiant la présence d’une prime de réputation. De plus, les scores de propreté, de localisation et des évaluations générales ont été intégrés sur chaque point de donnée en utilisant la visualisation dans l'infobulle. Cette fonctionnalité permet aux utilisateurs d’explorer instantanément les facteurs de qualité causant aux différences des prix, en montrant comment le taux de satisfaction élevé et des localisations centrales aident à justifier les tarifs premium. 
 
-*Le rapport d'analyse détaillée est en train de se produire.*
 
 </details>
