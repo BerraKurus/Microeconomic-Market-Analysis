@@ -500,6 +500,8 @@ En mobilisant la méthode de permutation de feuilles, ces cartes proportionnelle
 
 **a)	Diagramme à Barres sur le Taux d’Occupation Mensuelle:**
 
+Les taux d’occupation mensuels de chaque marché métropolitain ont été examinés à travers des profils d’hôte différents, dans ce diagramme à barres. Intuitivement, les hôtes commerciaux affichent les taux d’occupation les plus élevés à Paris et à Tokyo. Néanmoins, les hôtes modestes à Londres et les hôtes moyens à New York prévalent en termes de taux d’occupation. Cette divergence pourrait se clarifier par de strictes contraintes réglementaires imposées aux opérateurs institutionnels à Londres et à New York. Cette situation permet aux hôtes modestes et aux hôtes moyens de s’adapter plus flexiblement aux dynamiques fluctuantes de marché. 
+
 **b)	Graphique en Haltères pour l’Analyse de Prix:**
 
 **c)	Diagramme en Boîte pour l’Analyse de Prix:**
