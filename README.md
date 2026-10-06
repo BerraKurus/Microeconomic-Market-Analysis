@@ -508,7 +508,9 @@ En termes de prix, Tokyo affiche encore les niveaux de prix les plus bas, pendan
 
 **c)	Segmentation de Marché de la Catégorie Luxe:**
 
-*Le rapport d'analyse détaillée est en train de se produire.*
+Les annonces “modestement luxueux” à Londres possèdent la part la plus indispensable à travers les marchés métropolitains. Cette situation pourrait s’expliquer par la planification urbaine de Londres et le fait que la catégorie “modestement luxueux” représente l’endroit où l’optimisation coût-bénéfice est atteinte.
+
+La catégorie « largement luxueux » de Paris affiche le volume d'offre le plus faible et le prix moyen le plus élevé. Cette prime de rareté naît des localisations historiques où les contraintes municipales limitent l'inventaire haut de gamme, tandis que la demande internationale fortunée demeure hautement inélastique au prix. De plus, le segment “totalement luxueux” a été exclu de la visualisation en raison d’une taille d'échantillon extrêmement réduite (n=22, exclusivement à Londres), afin d'éviter l'encombrement visuel et la distorsion des données.
 
 **3.	Permutation de Feuilles sur les Analyses de Profils d’Hôte**
 
