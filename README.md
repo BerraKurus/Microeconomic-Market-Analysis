@@ -492,6 +492,12 @@ En mobilisant la méthode de permutation de feuilles, ces cartes proportionnelle
 
 **a)	Segmentation de Marché de la Catégorie d’Équipement Résidentiel:**
 
+La catégorie “hautement équipée” de Londres affiche le volume d’annonces le plus élevé dans la carte proportionnelle. En revanche, les prix moyens les plus élevés appartiennent à la catégorie “totalement équipée” à Londres et Paris. Cela souligne que la catégorie “hautement équipée” fournit la plus grande quantité d’offre, alors que la valorisation hédonique génère une prime tarifaire quand les aménités sont exhaustives. 
+
+Par ailleurs, les annonces de Tokyo représentent les prix moyens les plus bas en raison de la loi Minpaku et d’une élasticité-prix de la demande structurellement plus élevée.
+
+En dehors de tous ces marchés métropolitains, les annonces de la catégorie “non-équipée” de Paris font face à un seuil de qualité rigoureux, disposant du plus faible volume d'annonces. 
+
 **b)	Segmentation de Marché de la Catégorie de Business:**
 
 **c)	Segmentation de Marché de la Catégorie Luxe:**
