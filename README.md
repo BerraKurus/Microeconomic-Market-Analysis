@@ -250,9 +250,11 @@ Moderately luxurious listings in London possess the greatest share across metrop
 
 Paris’ mostly luxurious category has the lowest supply and the highest average price. This scarcity premium arises from prime historic locations where municipal constraints limit upscale inventory and wealthy international demand remains highly price-inelastic. It can also be observed in the treemap that the top-tier 'Fully Luxurious' segment was filtered out of the visual display due to an extremely small sample size (n=22, exclusively in London) to prevent visual clutter and distortion. 
 
-**3.	Sheet Swapping on Host Profile Analyses:**
+**3.	Sheet Swapping on Host Profile Analyses**
 
 **a)	Monthly Occupancy Rate Bar Chart:**
+
+In this bar chart, each metropolitan market’s average monthly occupancy rates were compared across different host profiles. Intuitively, commercial hosts command the highest rates of occupancy in Paris and Tokyo. However, small multi-hosts in London and medium multi-hosts in New York prevail in terms of occupancy rates. This divergence can be elucidated by the stringent regulatory constraints imposed on institutional operators in London and New York, which allows small- and medium-scale hosts to adapt more flexibly to changing market dynamics.
 
 **b)	Barbell Chart for Price Analysis:**
 
@@ -489,7 +491,7 @@ Visualise le taux d’occupation mensuel moyen (calculé par une formule personn
 
 **c)	Segmentation de Marché de la Catégorie Luxe:**
 
-**3.	Permutation de Feuilles sur les Analyses de Profils d’Hôte:**
+**3.	Permutation de Feuilles sur les Analyses de Profils d’Hôte**
 
 **a)	Diagramme à Barres sur le Taux d’Occupation Mensuelle:**
 
